@@ -37,3 +37,5 @@ O modelo resultante oferece uma previsão mais precisa dos preços de venda e au
 
 ## Contato
 Para dúvidas ou sugestões, entre em contato pelo GitHub ou por e-mail.
+Para consulta do artigo gerado a partir desse projeto, segue o DOI: https://link.springer.com/10.1007/978-3-031-50040-4_8
+
